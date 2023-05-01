@@ -1,15 +1,15 @@
 {
-  "name": "n",
-  "version": "0.0.1",
+  "name": "ts-recomp",
+  "version": "0.0.2",
   "description": "CSS Library",
-  "homepage": "https://github.com/NateAyye/ts-nomp#readme",
+  "homepage": "https://github.com/NateAyye/ts-recomp#readme",
   "bugs": {
-    "url": "https://github.com/NateAyye/ts-nomp/issues",
+    "url": "https://github.com/NateAyye/ts-recomp/issues",
     "email": "nathanacuevas97@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NateAyye/ts-nomp.git"
+    "url": "https://github.com/NateAyye/ts-recomp.git"
   },
   "keywords": [
     "React",
